@@ -1,0 +1,20 @@
+{
+    "app": {
+        "DEBUG":true,
+        "sslType": "http",
+        "port": 3000,
+        "socket": 4000
+    },
+    "db": {
+        "connectionString":"mongodb+srv://mugambo-admin:dF03kq1624X79QBH@mugambo-mainnet-45add556.mongo.ondigitalocean.com/mugambo-explorer-mainnet?authSource=admin&replicaSet=mugambo-mainnet&tls=true&tlsCAFile=config/cert/mugambo-mainnet.cer"
+    },
+    "blockChainURL" : "https://app-mainnet2.mgbscan.com/",
+    "crossDomains":[
+        "http://localhost:4200",
+        "https://testnet.mgbscan.com/",
+        "https://mgbscan.com/"
+    ],
+    "blockDuration": 10,
+    "symbol": "MGB",
+    "producedBy": "Mugambo"
+}

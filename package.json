@@ -1,0 +1,42 @@
+{
+  "name": "wyzth-explorer-api",
+  "version": "1.0.0",
+  "description": "Wyzth API For APP and web portal",
+  "main": "index.js",
+  "scripts": {
+    "production": "NODE_APP_INSTANCE=production pm2 start ecosystem.config.js --env=production",
+    "staging": "NODE_APP_INSTANCE=staging pm2 start ecosystem.config.js --env=staging",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://manikandanas@bitbucket.org/nexconz/wyzth-explorer.git"
+  },
+  "author": "NEXCONZ",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nexconz/wyzth-explorer#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.6",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "execution-time": "^1.4.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "get-json": "^1.0.1",
+    "http-errors": "^2.0.0",
+    "http-proxy-middleware": "^2.0.1",
+    "logs-decoder": "^3.1.4",
+    "mongoose": "^5.13.6",
+    "morgan": "^1.10.0",
+    "node-cron": "^3.0.0",
+    "path": "^0.12.7",
+    "pg": "^8.8.0",
+    "pug": "2.0.0-beta11",
+    "socket.io": "^4.4.1",
+    "solc": "^0.8.11",
+    "web3": "^1.7.1",
+    "wyzthweb": "^2.3.2"
+  }
+}

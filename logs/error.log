@@ -1,0 +1,2259 @@
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+Error: Cannot find module 'config'
+Require stack:
+- /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:61:29)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js:1:16)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/index.js'
+  ]
+}
+WARNING: NODE_APP_INSTANCE value of '0' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+Error: ENOENT: no such file or directory, open 'config/cert/wyzth-mdb-01.crt'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:257:32
+    at Array.forEach (<anonymous>)
+    at resolveTLSOptions (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:255:34)
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/operations/connect.js:305:5
+    at /Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:133:9
+    at parseConnectionString (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:744:3)
+    at QueryReqWrap.callback (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongodb/lib/core/uri_parser.js:127:7)
+    at QueryReqWrap.onresolve [as oncomplete] (node:dns:215:10) {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: 'config/cert/wyzth-mdb-01.crt'
+}
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{'blockNumber'},{},sort,10,0);
+                                                                      ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{'blockNumber'},sort,10,0);
+                                                                         ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/controllers/app_controller.js:130
+  blockRes = await queryHelper.findPaginationData(Block,{},{['blockNumber']},sort,10,0);
+                                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at Object.compileFunction (node:vm:352:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1031:15)
+    at Module._compile (node:internal/modules/cjs/loader:1065:27)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/src/routes/app_router.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at Module.Hook._require.Module.require (/opt/homebrew/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:80:39)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode
+MongooseError: Operation `contracts.aggregate()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+MongooseError: Operation `contracts.aggregate()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (/Users/manikandan/nexconz/project/gitHub/explorer-evm-api/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:198:23)
+    at listOnTimeout (node:internal/timers:557:17)
+    at processTimers (node:internal/timers:500:7)
+WARNING: NODE_APP_INSTANCE value of 'Wyzth' did not match any instance config file names.
+WARNING: See https://github.com/lorenwest/node-config/wiki/Strict-Mode

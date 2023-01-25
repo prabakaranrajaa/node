@@ -1,0 +1,23 @@
+{
+    "server" :{
+        "DEBUG" : true,
+        "port" : 8000
+    },  
+    "app": {
+        "DEBUG":true,
+        "sslType": "http",
+        "port": 8080,
+        "socket": 4000
+    },
+    "db": {
+        "connectionString":"mongodb+srv://wyzthadmin:g479R1k6VA5I20DP@wyzth-mdb-01-2031098e.mongo.ondigitalocean.com/wyzthscan-production?authSource=admin&tls=true&tlsCAFile=config/cert/wyzth-mdb-01.crt",
+        "sqlConnectionString":"postgresql://doadmin:AVNS_uYrYukj-4n0MEiwTGUB@wyzthscan-testnet-new-do-user-10351615-0.b.db.ondigitalocean.com:25060/wyzth_staging"
+    },
+    "blockChainURL" : "https://app-mainnet1.wyzthchain.org/",
+    "crossDomains":[
+        "http://localhost:4200",
+        "https://wyzthscan.org/",
+        "https://testnet.wyzthscan.org/"
+    ],
+    "blockDuration": 10
+}

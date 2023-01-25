@@ -1,0 +1,43 @@
+const express = require('express');
+const router = new express.Router();
+const appController = require('../controllers/app_controller');
+
+
+router.get("/getCurrentBlock", appController.getCurrentBlock);
+router.post("/getBlocks", appController.getBlocks);
+router.post("/getTransactions", appController.getTransactions);
+router.get("/getTransactionsTest", appController.getTransactionsTest);
+router.post("/getCustomerTransactions", appController.getCustomerTransactions);
+router.post("/getCustomerTokens", appController.getCustomerTokens);
+router.get("/getSmartContracts/:hash", appController.getSmartContracts);
+router.post("/getSmartContractsList", appController.getSmartContractsList);
+router.post("/getTopAccount", appController.getTopAccount);
+router.get("/getTransactionByHash/:hash", appController.getTransactionByHash);
+router.get("/getTransactionByAddrHash/:hash", appController.getTransactionByAddrHash);
+router.get("/getBlockTblById/:block", appController.getBlockTblById);
+router.get("/getTransactionSummary", appController.getTransactionSummary);
+router.get("/getContracts", appController.getContracts);
+router.get("/getContractsSummary", appController.getContractsSummary);
+router.get("/getCoinDetails/:hash", appController.getCoinDetails);
+router.get("/getSearchDetails/:hash", appController.getSearchDetails);
+router.get("/getAccountBalance/:hash", appController.getAccountBalance);
+router.get("/txlist", appController.txlist);
+router.get("/getBTCDetails", appController.getBTCDetails);
+router.post("/getAccountHolder/:hash", appController.getAccountHolder);
+router.get("/getTokenBalance/:tokenAddress/:address", appController.getTokenBalance);
+router.get("/getTransactionsReports", appController.getTransactionsReports);
+router.get("/getAccountTokenList/:hash", appController.getAccountTokenList);
+router.get("/getTokenBalances", appController.getTokenBalances);
+router.get("/getTxReceiptStatus", appController.getTxReceiptStatus);
+router.get("/getTxnLogs/:hash", appController.getTxnLogs);
+
+router.get("/getCurBlock", appController.getCurBlock);
+router.get("/getWyzthPrice", appController.getWyzthPrice);
+router.get("/getTokenDetails/:hash", appController.getTokenDetails);
+router.post("/contractCompiler", appController.contractCompiler);
+router.get("/getDashboardData", appController.getDashboardData);
+router.get("/getWyzthMarketCap", appController.getWyzthMarketCap);
+router.get("/getULEPrice", appController.getULEPrice);
+router.get("/getTxnMethod/:hash", appController.getTxnMethod);
+router.get("/getMissingBlock", appController.getMissingBlock);
+module.exports = router;

@@ -1,0 +1,125 @@
+[
+    {
+        "code": "DBError",
+        "message" : "Failed to Complete DB Task, Please Contact Administrator"
+    },
+    {
+        "code" : "ExistUserType",
+        "message" : "Selected User Type Already Exist for this mail ID"
+    },
+    {
+        "code" : "ExistUserRole",
+        "message" : "You can Login With you existing User name and password"
+    },
+    {
+        "code": "NoDefaultPartner",
+        "message" : "Default Partner NOT Configured For the Selected Country, Please Contact Administrator"
+    },
+    {
+        "code": "ExistMailId",
+        "message" : "Mail Id Already Exist"
+
+    },
+    {
+        "code": "InvalidPartnerID",
+        "message" : "Invalid Partner ID"
+
+    },
+    {
+        "code": "InvalidRefCode",
+        "message" : "Invalid Reference Code"
+
+    },
+    {
+        "code": "MisMatchPassword",
+        "message" : "Password and Confirm Password Must be same"
+
+    },
+    {
+        "code": "InvalidEmail",
+        "message" : "Invalid Email"
+    },
+    {
+        "code": "InvalidUserId",
+        "message" : "Invalid User"
+    },
+    {
+        "code": "InvalidUserType",
+        "message" : "Invalid User Type"
+    },
+    {
+        "code": "InvalidToken",
+        "message" : "Invalid Token"
+    },
+    {
+        "code": "ChangePasswordSuccess",
+        "message" : "Password has been Changed Successfully"
+    },
+    {
+        "code": "TokenExpired",
+        "message" : "Token Expired"
+
+    },
+    {
+        "code": "SetPasswordMailSuccess",
+        "message" : "Set Password Link send Successfully to your registered Email ID"
+
+    },
+    {
+        "code": "SetPasswordMailFailure",
+        "message" : "Failed to Send Email Please contact Administrator"
+
+    },
+    {
+        "code": "MAJOR",
+        "message" : "Age Should be Greater than 18"
+    },
+    {
+        "code" : "NOTFOUND",
+        "message": "Invalid Inputs, Record NOT FOUND"
+    },
+    {
+        "code" :"InvalidOldPassword",
+        "message":"Invalid OLD Password"
+    },
+    {
+        "code":"InvalidRole",
+        "message":"Invalid User Role"
+    },
+    {
+        "code":"SaveDraft",
+        "message":"Sale Saved Successfully"
+    }, 
+    {
+        "code":"InvalidDraftId",
+        "message": " Invalid Record Id"
+    },
+    {
+        "code":"CartEmpty",
+        "message": "Cart Info Cannot be Empty"
+    },
+    {
+        "code":"OrderEmpty",
+        "message": "Order Info Cannot be Empty"
+    },
+    {
+        "code":"RoleNoPermission",
+        "message":"You User Role have NO Permission to Perform this action"
+    },
+    {
+        "code":"InsufficientBalance",
+        "message": "Insufficient Balance in Your Wallet"
+    },
+    {
+        "code":"TransactionSuccess",
+        "message": " Transaction Added Successfully"
+    },
+    {
+        "code":"PartnerTypesAdd",
+        "message":"Partner Type Added Successfully"
+    },
+    {
+        "code":"PartnerTypesUpdate",
+        "message":"Partner Type Updated Successfully"
+    }
+]

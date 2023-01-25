@@ -1,0 +1,20 @@
+{
+    "app": {
+        "DEBUG":true,
+        "sslType": "http",
+        "port": 3000,
+        "socket": 4000
+    },
+    "db": {
+        "connectionString":"mongodb+srv://wyzthadmin:Bm84C0v7529GoME1@wyzthscan-testnet-0073b637.mongo.ondigitalocean.com/wyzthscan-staging?authSource=admin&replicaSet=wyzthscan-testnet&tls=true&tlsCAFile=config/cert/wyzthscan-testnet.cer"
+    },
+    "blockChainURL" : "https://app-testnet2.wyzthchain.org/",
+    "crossDomains":[
+        "http://localhost:4200",
+        "https://wyzthscan.org/",
+        "https://testnet.wyzthscan.org/"
+    ],
+    "blockDuration": 10,
+    "symbol": "WYZ",
+    "producedBy": "WYZTH"
+}
